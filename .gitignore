@@ -1,0 +1,5 @@
+pyrightconfig.json
+.env
+raw_data/
+index/
+__pycache__/
